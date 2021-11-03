@@ -40,11 +40,11 @@
 </p>
 <hr />
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/chandra-akash/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akash Chandra's streak" src="https://camo.githubusercontent.com/60af18daaeb82b76e4992c49400a2137713e554343362df75add836945f1fd52/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d63686972616e6a6565762d746861706c6979616c267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3036304130434430" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-akash&amp;theme=black-ice&amp;hide_border=false&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;">
     </a>
-</p>
+</p> -->
 
 <i>GitHub profile visitor count: </i>
 ![](https://visitor-badge.laobi.icu/badge?page_id=chandra-akash.chandra-akash)
@@ -57,6 +57,9 @@
 
 <i>Most used languages in my repositories: </i>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-akash&theme=tokyonight)
+
+- 🔭 I’m currently working on #Diabetes Management App
+- 🌱 I’m currently learning #React
 
 <!--
 **chandra-akash/chandra-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
