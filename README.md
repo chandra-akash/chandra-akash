@@ -58,8 +58,8 @@
 <i>Most used languages in my repositories: </i>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-akash&theme=tokyonight)
 
-- 🔭 I’m currently working on #Diabetes Management App
-- 🌱 I’m currently learning #React
+- 🔭 I’m currently working on <b>Diabetes Management App</b>
+- 🌱 I’m currently learning <i>React</i>
 
 <!--
 **chandra-akash/chandra-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
