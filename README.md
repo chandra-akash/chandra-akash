@@ -55,19 +55,32 @@
 <i>GitHub profile followers count: </i>
 [![Github](https://img.shields.io/github/followers/chandra-akash?label=Follow&style=social)](https://github.com/chandra-akash)
 
+<div>
+<i align="left">GitHub profile statistics: </i>
   
-  <i>GitHub profile statistics: </i>
-
+  <span align="center">
+  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandra-akash&show_icons=true&theme=ocean_dark)
+    
+  </span>
   
-  <br />
+</div>
+<br/>
+<div>
+<i align="left">GitHub Strak-Stats: </i>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-akash&theme=synthwave" alt="chandra-akash" />  
+</div>
+  <br/>
+<div>
+<i align="left">Most used languages in my repositories: </i>
   
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-akash&theme=synthwave" alt="chandra-akash" /> 
-
-<br />
-
-<i>Most used languages in my repositories: </i>
+  <span align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-akash&theme=tokyonight)
+    
+   </span>
+  
+</div>  
 
 <div align="center"> <a href="https://github.com/chandra-akash/github-readme-activity-graph"><img alt="chandra-akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chandra-akash&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> </div> 
 
