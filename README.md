@@ -6,8 +6,11 @@
   
   <br />
   
-  ## I'm a Full Stack Web Developer and Competent Programmer from India.
-  
+  ## I'm a Full Stack Web Developer and Competent Programmer from India. <br /> 
+ <i> Honest, hardworking, positive-thinker with a keen interest in building user-centrist products.
+  Looking to obtain a position as a full-stack web developer in a people-oriented organisation.
+   Has hands-on full-stack web development experience and a specialisation in MERN stack. </i>
+  <hr />
 </div>
   <br />
   
