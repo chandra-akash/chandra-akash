@@ -14,10 +14,9 @@
 
 ### ✉️ Connect with me:
 <p align="center">
- <a href="https://www.linkedin.com/in/akash-chandra-0a0622207/" target="_blank" rel="noopener noreferrer"> <img src="https://www.freeiconspng.com/thumbs/linkedin-icon/linkedin-icon-2.png" alt="LinkedIn" height="30" border-radius="10px" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/akash-chandra-0a0622207/" target="_blank" rel="noopener noreferrer" style=" margin-right:5px"> <img src="https://www.freeiconspng.com/thumbs/linkedin-icon/linkedin-icon-2.png" alt="LinkedIn" height="30" border-radius="10px" style="vertical-align:top; margin:4px"> </a>
  <a href="https://hashnode.com/@AkashChandraBlog" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="HashNode" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:chandra.akash020@gmail.com"> <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Gmail" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.facebook.com/profile.php?id=100064000732762"> <img src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" alt="Facebook" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://twitter.com/AkashCh84102460"> <img src="https://spng.pngfind.com/pngs/s/103-1037817_13-twitter-icon-vector-logo-images-twitter-logo.png" alt="Twitter" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
