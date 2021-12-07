@@ -86,8 +86,10 @@
 
 <div align="center"> <a href="https://github.com/chandra-akash/github-readme-activity-graph"><img alt="chandra-akash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chandra-akash&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> </div> 
 
-- 🔭 I’m currently working on <b>Diabetes Management App</b>
-- 🌱 I’m currently learning <i>React</i>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandra-akash" alt="AkashChandra" /></a> </p>
+
+- 🔭 I’m currently working on <b>React App Testing</b>
+- 🌱 I’m currently learning <i>MERN Stack</i>
 
 <!--
 **chandra-akash/chandra-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
