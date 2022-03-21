@@ -42,6 +42,7 @@
   <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png" alt="Dev C++" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/768px-Visual_Studio_2017_Logo.svg.png" alt="Visual Studio" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/ios/500/mendix.png" alt="Mendix" height="40" style="vertical-align:top; margin:4px">
 </p>
 <hr />
 
