@@ -78,6 +78,7 @@
 ---
 
 ### 🏆 Certifications & Featured Build
+- 🏅 **Excellence in Client Retention Award** — *Techno Exponent (T-Web Exponent Services Pvt. Ltd.)* (Recognized for enterprise backend reliability & squad leadership)
 - 🎓 **AI Classroom Foundation Course** — *Jio Institute & JioPC* (Nov 2026 | ID: `J8v15E893BXN`)[cite: 2]
 - 🎓 **Yuva AI for All (NSQF Level 2)** — *NIELIT & Skill India* (Sep 2026 | ID: `2026083093840769-173301`)[cite: 3]
 - 🎓 **Full-Stack Web Development (2,160 Hours Practical)** — *Masai School* (Jan 2022 | ID: `MASAI-FW10-059`)[cite: 27]
